@@ -24,7 +24,7 @@
     padding: 20px;
 }
 .skill-row{
-    width: 50%; 
+    width: 40%; 
     height: 30%;
     padding: 20px;
     display: inline-block;
@@ -52,25 +52,27 @@
     float: left;
     height: 25%;
     width: 25%;
-    margin-right: 20px;
+    margin-right: 30px;
 }
 .java{
     float: left;
     height: 25%;
     width: 25%;
-    margin-right: 20px;
+    margin-right: 30px;
+    margin-bottom: 30px;
 }
 .python{
     float: left;
     height: 25%;
     width: 25%;
-    margin-right: 20px;
+    margin-right: 30px;
 }
 .webdev{
     float: left;
     height: 25%;
     width: 25%;
-    margin-right: 20px;
+    margin-right: 30px;
+    margin-bottom: 30px;
 }
 
 /*----------------TEXT----------------*/
