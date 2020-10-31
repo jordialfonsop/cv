@@ -51,25 +51,25 @@
     float: left;
     height: 25%;
     width: 25%;
-    padding-right: 10px;
+    padding-right: 20px;
 }
 .java{
     float: left;
     height: 25%;
     width: 25%;
-    padding-right: 10px;
+    padding-right: 20px;
 }
 .python{
     float: left;
     height: 25%;
     width: 25%;
-    padding-right: 10px;
+    padding-right: 20px;
 }
 .webdev{
     float: left;
     height: 25%;
     width: 25%;
-    padding-right: 10px;
+    padding-right: 20px;
 }
 
 /*----------------TEXT----------------*/
